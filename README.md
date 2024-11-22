@@ -6,3 +6,5 @@ I will be updating this readme daily as I progress in building the site, documen
 I've spent the past few days diving into HTML and CSS, and it's been fantastic to see the webpage come together. I’m gaining a solid understanding of HTML tags and their functions, and I'm learning how CSS enhances the aesthetic of basic webpages.
 
 Today, I found out that I need to host the images I plan to use on a server. This ensures that visitors can access the images without relying on my personal computer. While I feel a bit frustrated about not realizing this sooner, I am fully committed to refining this website and mastering the tools necessary to make it work flawlessly.
+
+I have also learned how to use CSS to customize the page with styling and classes, giving it more personality. Additionally, I started using comments to clarify different sections of my code. I will focus on how I want the webpage to look so I can apply the CSS techniques I learn.

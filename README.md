@@ -16,3 +16,9 @@ Today, I focused on enhancing my understanding of CSS styles for the project. I 
 Additionally, I realized that I should explore different ways to display lists of other tools. Instead of using ordered lists, I’m considering alternative formats. My goal is to create a system where, when a user selects a tool, it directs them to a separate page that provides a description of the tool, how it’s used, and its benefits. I also want to include a link to the tool on that secondary page. I need to work on figuring out how to implement this in the next few days.
 
 Furthermore, I reached out to several HTML, CSS, and JavaScript programmers for assistance. I hope they can help me better sort my code and guide me to keep it simple and manageable, making future updates to the website easier.
+
+**26/11/2024 to 28/11/2024**
+
+I have been focusing on improving my understanding of classes, styles, and selectors in coding. I realized that the initial approach I took for my code was too minimal and lacked customizability. This made it challenging to update and maintain the webpage in the future. I see now that my planning was inadequate, and I didn’t consider several key factors before creating the page.
+
+Going forward, I plan to rework my approach and adjust the code to make it easier to manage and update. This will also give me the opportunity to connect with more people and gather additional resources that will enhance my understanding of writing code in a way that is easy to read, comprehend, and update. In this process, I believe it is essential to invest my time and energy into engaging with others and improving my problem-solving approach. I tend to rush into solutions, but I need to take more time to evaluate the effectiveness of my solutions and whether they truly address the problem at hand.

@@ -1,3 +1,15 @@
-.font {
-            font-family: 'Courier New', Courier, monospace;
-    }
+body { background-color: whitesmoke;
+color: black;
+}
+
+.font { font-family: 'Courier New', Courier, monospace;
+}
+
+.group {
+        border: 8px 6px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: medium;
+        background-color: blanchedalmond;
+        color: white;
+        margin: 8px 6px;
+}
